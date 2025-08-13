@@ -9,5 +9,6 @@ You can download it here: [**DigiReg Model (.pkl)**](https://huggingface.co/afip
 
 
 # Files
-- `DigiReg.py` This is the main python file, you can run this file for the execution of the Classifier.  
+- `DigiReg.py` This is the main python file, you can run this file for the execution of the Classifier.
+- `DigiReg.ipynb` This is the jupyter notebook which contains the model source code and all evalualtion result.
 > **NOTE:** You first need to download the model then run the python file.
