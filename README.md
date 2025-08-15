@@ -13,8 +13,11 @@ You can download it here: [**DigiReg Model (.pkl)**](https://huggingface.co/afip
 - `DigiReg.ipynb` This is the jupyter notebook which contains the model source code and all evalualtion result.
 > **NOTE:** You first need to download the model then run the python file.
 
+# Libraries  
+`joblib` : This library is used to save/load ML models, latest version is 1.5.1, `pip install joblib` for installation.  
+
+`opencv` : OpenCV library for live camera feed, latest version is 4.12.0, `pip install opencv` for installation.
 
 
 ## Author
 **Archit Vaishnav**  
-SE student in AI & ML
